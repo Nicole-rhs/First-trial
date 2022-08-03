@@ -1,2 +1,5 @@
 # First-trial
-Trying it out
+---
+THis is my first repository, or repo for short
+
+## Bye
